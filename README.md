@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-Computer Engineering student from Turkey               <img src="https://cdn-icons-png.flaticon.com/512/6656/6656137.png" alt="Yazılım Geliştirme İkonu" width="150">
+Computer Engineering student from Turkey                                             <img src="https://cdn-icons-png.flaticon.com/512/6656/6656137.png" alt="Yazılım Geliştirme İkonu" width="150">
 
 * ✉️ You can contact me at [trtmahmut1@gmail.com](mailto:trtmahmut1@gmail.com)
 
