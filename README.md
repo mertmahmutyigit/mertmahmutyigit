@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Mahmut Yiğit
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is Mert Mahmut Yiğit
 =========================================================================================================================================
 
 Computer Engineer
@@ -6,7 +6,7 @@ Computer Engineer
 
 Computer Engineering student from Turkey
 
-* ✉️  You can contact me at [trtmahmut1@gmail.com](mailto:trtmahmut1@gmail.com)
+* ✉️ You can contact me at [trtmahmut1@gmail.com](mailto:trtmahmut1@gmail.com)
 
 <a href="https://www.github.com/mertmahmutyigit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mertmahmutyigit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
