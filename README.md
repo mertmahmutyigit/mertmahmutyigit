@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Engineer
 -----------------
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/21969753-7Pace-Time-tracking-Software">
 Computer Engineering student from Turkey                                            
 * ✉️ You can contact me at [trtmahmut1@gmail.com](mailto:trtmahmut1@gmail.com)
 
