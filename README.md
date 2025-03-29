@@ -1,13 +1,10 @@
-<img src="https://cdn-icons-png.flaticon.com/512/6656/6656137.png" alt="Yazılım Geliştirme İkonu" width="150">
-
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Mahmut Yiğit
 =========================================================================================================================================
 
 Computer Engineer
 -----------------
-<img align="right" alt="Coding" width="400" src="https://lottie.host/7c02fc22-a327-4eb9-bc0e-720dad4041ec/ZHNVQBrp3t.lottie">
+ <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="">
 Computer Engineering student from Turkey                                            
 * ✉️ You can contact me at [trtmahmut1@gmail.com](mailto:trtmahmut1@gmail.com)
 
